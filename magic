@@ -1,0 +1,34 @@
+0	string	\xFF	q2
+>2      byte    =11 symbol
+
+0	string	\xFE	q3
+>1      byte    0x20
+>>2      byte    =1  boolean
+>>2      byte    =2  guid
+>>2      byte    =4  byte
+>>2      byte    =5  short
+>>2      byte    =6  int
+>>2      byte    =7  long
+>>2      byte    =8  real
+>>2      byte    =9  float
+>>2      byte    =10 char
+>>2      byte    =12 timestamp
+>>2      byte    =13 month
+>>2      byte    =14 date
+>>2      byte    =15 datetime
+>>2      byte    =16 timespan
+>>2      byte    =17 minute
+>>2      byte    =18 second
+>>2      byte    =19 time
+>>3      byte    =1  sorted
+>>3      byte    =2  unique
+>>3      byte    =3  partitioned
+>>3      byte    =4  grouped
+>1      byte    >0x20 enum
+>>1     string  x     by %s
+>>11     byte    =1  sorted
+>>11     byte    =2  unique
+>>11     byte    =3  partitioned
+>>11     byte    =4  grouped
+
+0       string  kxzipped kxzipped
