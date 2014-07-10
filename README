@@ -1,0 +1,17 @@
+To install:
+
+$ cp magic $HOME/.magic
+
+Once magic file is installed, file command will recognize q files.
+
+For example:
+
+$ file taq/2014.07.09/quote/*
+taq/2014.07.09/quote/asize: q3 int
+taq/2014.07.09/quote/ask:   q3 real
+taq/2014.07.09/quote/bid:   q3 real
+taq/2014.07.09/quote/bsize: q3 int
+taq/2014.07.09/quote/ex:    q3 char
+taq/2014.07.09/quote/mode:  q3 char
+taq/2014.07.09/quote/sym:   q3 enum by sym partitioned
+taq/2014.07.09/quote/time:  q3 time
