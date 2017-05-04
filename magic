@@ -76,4 +76,4 @@
 >>11     byte    =3  partitioned
 >>11     byte    =4  grouped
 
-0       string  kxzipped kxzipped
+0       string  kxzipped kdb+ data file, compressed
