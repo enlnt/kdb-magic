@@ -1,1 +1,1 @@
-exec file -m ../magic data/* | sort | diff - data.out
+exec file -m ../magic data/* | sort | diff -u -w - data.out
