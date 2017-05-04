@@ -1,5 +1,6 @@
 d:hsym`$first .z.x
 / create empty vectors of all types and attributes
+`:data/_ set(); / type 0 list
 {(` sv d,`$y,"x"^x)set(`$x)#y$()}./:" supg"cross t:.Q.t except" ";
 / create scalars of all types
 {(` sv d,`$x,"0")set first x$()}each t;

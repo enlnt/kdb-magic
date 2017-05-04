@@ -1,3 +1,4 @@
+data/_:     q2 list
 data/b0:    q2 boolean scalar
 data/b1#:   empty
 data/b1:    q3 nested boolean

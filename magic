@@ -2,6 +2,7 @@
 >2      byte    =11 symbol
 
 >1      byte    0x01
+>>2      byte    =0x00 list
 >>2      byte    =0xff boolean scalar
 >>2      byte    =0xfe guid scalar
 >>2      byte    =0xfc byte scalar
