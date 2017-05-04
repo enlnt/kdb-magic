@@ -44,6 +44,26 @@
 >>2      byte    =17 minute
 >>2      byte    =18 second
 >>2      byte    =19 time
+
+>>2      byte    =78  nested boolean
+>>2      byte    =79  nested guid
+>>2      byte    =81  nested byte
+>>2      byte    =82  nested short
+>>2      byte    =83  nested int
+>>2      byte    =84  nested long
+>>2      byte    =85  nested real
+>>2      byte    =86  nested float
+>>2      byte    =87  nested char
+>>2      byte    =89  nested timestamp
+>>2      byte    =90  nested month
+>>2      byte    =91  nested date
+>>2      byte    =92  nested datetime
+>>2      byte    =93  nested timespan
+>>2      byte    =94  nested minute
+>>2      byte    =95  nested second
+>>2      byte    =96  nested time
+
+
 >>3      byte    =1  sorted
 >>3      byte    =2  unique
 >>3      byte    =3  partitioned
