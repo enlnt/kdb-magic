@@ -97,10 +97,10 @@ data/ps:     kdb+ data file version 3 timestamp sorted
 data/pu:     kdb+ data file version 3 timestamp unique
 data/px:     kdb+ data file version 3 timestamp
 data/s0:     kdb+ data file version 2 symbol scalar
-data/sg:     kdb+ data file version 2 symbol
-data/sp:     kdb+ data file version 2 symbol
-data/ss:     kdb+ data file version 2 symbol
-data/su:     kdb+ data file version 2 symbol
+data/sg:     kdb+ data file version 2 symbol grouped
+data/sp:     kdb+ data file version 2 symbol partitioned
+data/ss:     kdb+ data file version 2 symbol sorted
+data/su:     kdb+ data file version 2 symbol unique
 data/sx:     kdb+ data file version 2 symbol
 data/t0:     kdb+ data file version 2 time scalar
 data/t1#:    empty
