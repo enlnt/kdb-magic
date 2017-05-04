@@ -4,7 +4,7 @@ On Linux, copy the provided magic file to ~/.magic.
 
 $ cp magic $HOME/.magic
 
-On Mac OS, use the -m option with the "file" command
+On macOS, use the -m option with the "file" command.
 
 $ file -m path/to/magic <file(s)>
 
