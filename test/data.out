@@ -33,7 +33,6 @@ data/hp: q3 short partitioned
 data/hs: q3 short sorted
 data/hu: q3 short unique
 data/hx: q3 short
-data/i:  q3 int
 data/ig: q3 int grouped
 data/ip: q3 int partitioned
 data/is: q3 int sorted

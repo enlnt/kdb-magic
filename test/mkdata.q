@@ -1,3 +1,3 @@
 d:hsym`$first .z.x
-{(` sv d,`$"x"^y,x)set(`$x)#y$()}./:" supg"cross .Q.t except" ";
+{(` sv d,`$y,"x"^x)set(`$x)#y$()}./:" supg"cross .Q.t except" ";
 \\
