@@ -1,4 +1,4 @@
-0	string	\xFF	q2
+0	string	\xFF	kdb+ data file version 2
 >2      byte    =11 symbol
 
 >1      byte    0x01
@@ -25,7 +25,7 @@
 >>2      byte    =98 table
 >>2      byte    =99 dict
 
-0	string	\xFE	q3
+0	string	\xFE	kdb+ data file version 3
 >1      byte    0x20
 >>2      byte    =1  boolean
 >>2      byte    =2  guid
