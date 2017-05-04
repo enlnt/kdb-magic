@@ -1,0 +1,91 @@
+data/bg: q3 boolean grouped
+data/bp: q3 boolean partitioned
+data/bs: q3 boolean sorted
+data/bu: q3 boolean unique
+data/bx: q3 boolean
+data/cg: q3 char grouped
+data/cp: q3 char partitioned
+data/cs: q3 char sorted
+data/cu: q3 char unique
+data/cx: q3 char
+data/dg: q3 date grouped
+data/dp: q3 date partitioned
+data/ds: q3 date sorted
+data/du: q3 date unique
+data/dx: q3 date
+data/eg: q3 real grouped
+data/ep: q3 real partitioned
+data/es: q3 real sorted
+data/eu: q3 real unique
+data/ex: q3 real
+data/fg: q3 float grouped
+data/fp: q3 float partitioned
+data/fs: q3 float sorted
+data/fu: q3 float unique
+data/fx: q3 float
+data/gg: q3 guid grouped
+data/gp: q3 guid partitioned
+data/gs: q3 guid sorted
+data/gu: q3 guid unique
+data/gx: q3 guid
+data/hg: q3 short grouped
+data/hp: q3 short partitioned
+data/hs: q3 short sorted
+data/hu: q3 short unique
+data/hx: q3 short
+data/i:  q3 int
+data/ig: q3 int grouped
+data/ip: q3 int partitioned
+data/is: q3 int sorted
+data/iu: q3 int unique
+data/ix: q3 int
+data/jg: q3 long grouped
+data/jp: q3 long partitioned
+data/js: q3 long sorted
+data/ju: q3 long unique
+data/jx: q3 long
+data/mg: q3 month grouped
+data/mp: q3 month partitioned
+data/ms: q3 month sorted
+data/mu: q3 month unique
+data/mx: q3 month
+data/ng: q3 timespan grouped
+data/np: q3 timespan partitioned
+data/ns: q3 timespan sorted
+data/nu: q3 timespan unique
+data/nx: q3 timespan
+data/pg: q3 timestamp grouped
+data/pp: q3 timestamp partitioned
+data/ps: q3 timestamp sorted
+data/pu: q3 timestamp unique
+data/px: q3 timestamp
+data/sg: q2 symbol
+data/sp: q2 symbol
+data/ss: q2 symbol
+data/su: q2 symbol
+data/sx: q2 symbol
+data/tg: q3 time grouped
+data/tp: q3 time partitioned
+data/ts: q3 time sorted
+data/tu: q3 time unique
+data/tx: q3 time
+data/ug: q3 minute grouped
+data/up: q3 minute partitioned
+data/us: q3 minute sorted
+data/uu: q3 minute unique
+data/ux: q3 minute
+data/vg: q3 second grouped
+data/vp: q3 second partitioned
+data/vs: q3 second sorted
+data/vu: q3 second unique
+data/vx: q3 second
+data/xg: q3 byte grouped
+data/xp: q3 byte partitioned
+data/xs: q3 byte sorted
+data/xu: q3 byte unique
+data/xx: q3 byte
+data/zg: q3 datetime grouped
+data/zp: q3 datetime partitioned
+data/zs: q3 datetime sorted
+data/zu: q3 datetime unique
+data/zx: q3 datetime
