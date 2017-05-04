@@ -18,12 +18,12 @@ For example,
 
 ```
 $ file taq/2014.07.09/quote/*
-taq/2014.07.09/quote/asize: q3 int
-taq/2014.07.09/quote/ask:   q3 real
-taq/2014.07.09/quote/bid:   q3 real
-taq/2014.07.09/quote/bsize: q3 int
-taq/2014.07.09/quote/ex:    q3 char
-taq/2014.07.09/quote/mode:  q3 char
-taq/2014.07.09/quote/sym:   q3 enum by sym partitioned
-taq/2014.07.09/quote/time:  q3 time
+taq/2014.07.09/quote/asize: kdb+ data file version 3 int
+taq/2014.07.09/quote/ask:   kdb+ data file version 3 real
+taq/2014.07.09/quote/bid:   kdb+ data file version 3 real
+taq/2014.07.09/quote/bsize: kdb+ data file version 3 int
+taq/2014.07.09/quote/ex:    kdb+ data file version 3 char
+taq/2014.07.09/quote/mode:  kdb+ data file version 3 char
+taq/2014.07.09/quote/sym:   kdb+ data file version 3 enum by sym partitioned
+taq/2014.07.09/quote/time:  kdb+ data file version 3 time
 ```
