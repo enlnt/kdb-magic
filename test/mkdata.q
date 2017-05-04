@@ -8,4 +8,6 @@ d:hsym`$first .z.x
 {(` sv d,`$x,"1")set enlist x$()}each t except "s";
 / a table and a dictionary
 (` sv d,`table)set([]x:0#0);(` sv d,`dict)set()!();
+/ a zipped file
+(` sv d,`zipped;17;2;6)set(); 
 \\

@@ -1,145 +1,146 @@
-data/_:     kdb+ data file version 2 list
-data/b0:    kdb+ data file version 2 boolean scalar
-data/b1#:   empty
-data/b1:    kdb+ data file version 3 nested boolean
-data/bg:    kdb+ data file version 3 boolean grouped
-data/bp:    kdb+ data file version 3 boolean partitioned
-data/bs:    kdb+ data file version 3 boolean sorted
-data/bu:    kdb+ data file version 3 boolean unique
-data/bx:    kdb+ data file version 3 boolean
-data/c0:    kdb+ data file version 2 char scalar
-data/c1#:   empty
-data/c1:    kdb+ data file version 3 nested char
-data/cg:    kdb+ data file version 3 char grouped
-data/cp:    kdb+ data file version 3 char partitioned
-data/cs:    kdb+ data file version 3 char sorted
-data/cu:    kdb+ data file version 3 char unique
-data/cx:    kdb+ data file version 3 char
-data/d0:    kdb+ data file version 2 date scalar
-data/d1#:   empty
-data/d1:    kdb+ data file version 3 nested date
-data/dg:    kdb+ data file version 3 date grouped
-data/dict:  kdb+ data file version 2 dict
-data/dp:    kdb+ data file version 3 date partitioned
-data/ds:    kdb+ data file version 3 date sorted
-data/du:    kdb+ data file version 3 date unique
-data/dx:    kdb+ data file version 3 date
-data/e0:    kdb+ data file version 2 real scalar
-data/e1#:   empty
-data/e1:    kdb+ data file version 3 nested real
-data/eg:    kdb+ data file version 3 real grouped
-data/ep:    kdb+ data file version 3 real partitioned
-data/es:    kdb+ data file version 3 real sorted
-data/eu:    kdb+ data file version 3 real unique
-data/ex:    kdb+ data file version 3 real
-data/f0:    kdb+ data file version 2 float scalar
-data/f1#:   empty
-data/f1:    kdb+ data file version 3 nested float
-data/fg:    kdb+ data file version 3 float grouped
-data/fp:    kdb+ data file version 3 float partitioned
-data/fs:    kdb+ data file version 3 float sorted
-data/fu:    kdb+ data file version 3 float unique
-data/fx:    kdb+ data file version 3 float
-data/g0:    kdb+ data file version 2 guid scalar
-data/g1#:   empty
-data/g1:    kdb+ data file version 3 nested guid
-data/gg:    kdb+ data file version 3 guid grouped
-data/gp:    kdb+ data file version 3 guid partitioned
-data/gs:    kdb+ data file version 3 guid sorted
-data/gu:    kdb+ data file version 3 guid unique
-data/gx:    kdb+ data file version 3 guid
-data/h0:    kdb+ data file version 2 short scalar
-data/h1#:   empty
-data/h1:    kdb+ data file version 3 nested short
-data/hg:    kdb+ data file version 3 short grouped
-data/hp:    kdb+ data file version 3 short partitioned
-data/hs:    kdb+ data file version 3 short sorted
-data/hu:    kdb+ data file version 3 short unique
-data/hx:    kdb+ data file version 3 short
-data/i0:    kdb+ data file version 2 int scalar
-data/i1#:   empty
-data/i1:    kdb+ data file version 3 nested int
-data/ig:    kdb+ data file version 3 int grouped
-data/ip:    kdb+ data file version 3 int partitioned
-data/is:    kdb+ data file version 3 int sorted
-data/iu:    kdb+ data file version 3 int unique
-data/ix:    kdb+ data file version 3 int
-data/j0:    kdb+ data file version 2 long scalar
-data/j1#:   empty
-data/j1:    kdb+ data file version 3 nested long
-data/jg:    kdb+ data file version 3 long grouped
-data/jp:    kdb+ data file version 3 long partitioned
-data/js:    kdb+ data file version 3 long sorted
-data/ju:    kdb+ data file version 3 long unique
-data/jx:    kdb+ data file version 3 long
-data/m0:    kdb+ data file version 2 month scalar
-data/m1#:   empty
-data/m1:    kdb+ data file version 3 nested month
-data/mg:    kdb+ data file version 3 month grouped
-data/mp:    kdb+ data file version 3 month partitioned
-data/ms:    kdb+ data file version 3 month sorted
-data/mu:    kdb+ data file version 3 month unique
-data/mx:    kdb+ data file version 3 month
-data/n0:    kdb+ data file version 2 timespan scalar
-data/n1#:   empty
-data/n1:    kdb+ data file version 3 nested timespan
-data/ng:    kdb+ data file version 3 timespan grouped
-data/np:    kdb+ data file version 3 timespan partitioned
-data/ns:    kdb+ data file version 3 timespan sorted
-data/nu:    kdb+ data file version 3 timespan unique
-data/nx:    kdb+ data file version 3 timespan
-data/p0:    kdb+ data file version 2 timestamp scalar
-data/p1#:   empty
-data/p1:    kdb+ data file version 3 nested timestamp
-data/pg:    kdb+ data file version 3 timestamp grouped
-data/pp:    kdb+ data file version 3 timestamp partitioned
-data/ps:    kdb+ data file version 3 timestamp sorted
-data/pu:    kdb+ data file version 3 timestamp unique
-data/px:    kdb+ data file version 3 timestamp
-data/s0:    kdb+ data file version 2 symbol scalar
-data/sg:    kdb+ data file version 2 symbol
-data/sp:    kdb+ data file version 2 symbol
-data/ss:    kdb+ data file version 2 symbol
-data/su:    kdb+ data file version 2 symbol
-data/sx:    kdb+ data file version 2 symbol
-data/t0:    kdb+ data file version 2 time scalar
-data/t1#:   empty
-data/t1:    kdb+ data file version 3 nested time
-data/table: kdb+ data file version 2 table
-data/tg:    kdb+ data file version 3 time grouped
-data/tp:    kdb+ data file version 3 time partitioned
-data/ts:    kdb+ data file version 3 time sorted
-data/tu:    kdb+ data file version 3 time unique
-data/tx:    kdb+ data file version 3 time
-data/u0:    kdb+ data file version 2 minute scalar
-data/u1#:   empty
-data/u1:    kdb+ data file version 3 nested minute
-data/ug:    kdb+ data file version 3 minute grouped
-data/up:    kdb+ data file version 3 minute partitioned
-data/us:    kdb+ data file version 3 minute sorted
-data/uu:    kdb+ data file version 3 minute unique
-data/ux:    kdb+ data file version 3 minute
-data/v0:    kdb+ data file version 2 second scalar
-data/v1#:   empty
-data/v1:    kdb+ data file version 3 nested second
-data/vg:    kdb+ data file version 3 second grouped
-data/vp:    kdb+ data file version 3 second partitioned
-data/vs:    kdb+ data file version 3 second sorted
-data/vu:    kdb+ data file version 3 second unique
-data/vx:    kdb+ data file version 3 second
-data/x0:    kdb+ data file version 2 byte scalar
-data/x1#:   empty
-data/x1:    kdb+ data file version 3 nested byte
-data/xg:    kdb+ data file version 3 byte grouped
-data/xp:    kdb+ data file version 3 byte partitioned
-data/xs:    kdb+ data file version 3 byte sorted
-data/xu:    kdb+ data file version 3 byte unique
-data/xx:    kdb+ data file version 3 byte
-data/z0:    kdb+ data file version 2 datetime scalar
-data/z1#:   empty
-data/z1:    kdb+ data file version 3 nested datetime
-data/zg:    kdb+ data file version 3 datetime grouped
-data/zp:    kdb+ data file version 3 datetime partitioned
-data/zs:    kdb+ data file version 3 datetime sorted
-data/zu:    kdb+ data file version 3 datetime unique
-data/zx:    kdb+ data file version 3 datetime
+data/_:      kdb+ data file version 2 list
+data/b0:     kdb+ data file version 2 boolean scalar
+data/b1#:    empty
+data/b1:     kdb+ data file version 3 nested boolean
+data/bg:     kdb+ data file version 3 boolean grouped
+data/bp:     kdb+ data file version 3 boolean partitioned
+data/bs:     kdb+ data file version 3 boolean sorted
+data/bu:     kdb+ data file version 3 boolean unique
+data/bx:     kdb+ data file version 3 boolean
+data/c0:     kdb+ data file version 2 char scalar
+data/c1#:    empty
+data/c1:     kdb+ data file version 3 nested char
+data/cg:     kdb+ data file version 3 char grouped
+data/cp:     kdb+ data file version 3 char partitioned
+data/cs:     kdb+ data file version 3 char sorted
+data/cu:     kdb+ data file version 3 char unique
+data/cx:     kdb+ data file version 3 char
+data/d0:     kdb+ data file version 2 date scalar
+data/d1#:    empty
+data/d1:     kdb+ data file version 3 nested date
+data/dg:     kdb+ data file version 3 date grouped
+data/dict:   kdb+ data file version 2 dict
+data/dp:     kdb+ data file version 3 date partitioned
+data/ds:     kdb+ data file version 3 date sorted
+data/du:     kdb+ data file version 3 date unique
+data/dx:     kdb+ data file version 3 date
+data/e0:     kdb+ data file version 2 real scalar
+data/e1#:    empty
+data/e1:     kdb+ data file version 3 nested real
+data/eg:     kdb+ data file version 3 real grouped
+data/ep:     kdb+ data file version 3 real partitioned
+data/es:     kdb+ data file version 3 real sorted
+data/eu:     kdb+ data file version 3 real unique
+data/ex:     kdb+ data file version 3 real
+data/f0:     kdb+ data file version 2 float scalar
+data/f1#:    empty
+data/f1:     kdb+ data file version 3 nested float
+data/fg:     kdb+ data file version 3 float grouped
+data/fp:     kdb+ data file version 3 float partitioned
+data/fs:     kdb+ data file version 3 float sorted
+data/fu:     kdb+ data file version 3 float unique
+data/fx:     kdb+ data file version 3 float
+data/g0:     kdb+ data file version 2 guid scalar
+data/g1#:    empty
+data/g1:     kdb+ data file version 3 nested guid
+data/gg:     kdb+ data file version 3 guid grouped
+data/gp:     kdb+ data file version 3 guid partitioned
+data/gs:     kdb+ data file version 3 guid sorted
+data/gu:     kdb+ data file version 3 guid unique
+data/gx:     kdb+ data file version 3 guid
+data/h0:     kdb+ data file version 2 short scalar
+data/h1#:    empty
+data/h1:     kdb+ data file version 3 nested short
+data/hg:     kdb+ data file version 3 short grouped
+data/hp:     kdb+ data file version 3 short partitioned
+data/hs:     kdb+ data file version 3 short sorted
+data/hu:     kdb+ data file version 3 short unique
+data/hx:     kdb+ data file version 3 short
+data/i0:     kdb+ data file version 2 int scalar
+data/i1#:    empty
+data/i1:     kdb+ data file version 3 nested int
+data/ig:     kdb+ data file version 3 int grouped
+data/ip:     kdb+ data file version 3 int partitioned
+data/is:     kdb+ data file version 3 int sorted
+data/iu:     kdb+ data file version 3 int unique
+data/ix:     kdb+ data file version 3 int
+data/j0:     kdb+ data file version 2 long scalar
+data/j1#:    empty
+data/j1:     kdb+ data file version 3 nested long
+data/jg:     kdb+ data file version 3 long grouped
+data/jp:     kdb+ data file version 3 long partitioned
+data/js:     kdb+ data file version 3 long sorted
+data/ju:     kdb+ data file version 3 long unique
+data/jx:     kdb+ data file version 3 long
+data/m0:     kdb+ data file version 2 month scalar
+data/m1#:    empty
+data/m1:     kdb+ data file version 3 nested month
+data/mg:     kdb+ data file version 3 month grouped
+data/mp:     kdb+ data file version 3 month partitioned
+data/ms:     kdb+ data file version 3 month sorted
+data/mu:     kdb+ data file version 3 month unique
+data/mx:     kdb+ data file version 3 month
+data/n0:     kdb+ data file version 2 timespan scalar
+data/n1#:    empty
+data/n1:     kdb+ data file version 3 nested timespan
+data/ng:     kdb+ data file version 3 timespan grouped
+data/np:     kdb+ data file version 3 timespan partitioned
+data/ns:     kdb+ data file version 3 timespan sorted
+data/nu:     kdb+ data file version 3 timespan unique
+data/nx:     kdb+ data file version 3 timespan
+data/p0:     kdb+ data file version 2 timestamp scalar
+data/p1#:    empty
+data/p1:     kdb+ data file version 3 nested timestamp
+data/pg:     kdb+ data file version 3 timestamp grouped
+data/pp:     kdb+ data file version 3 timestamp partitioned
+data/ps:     kdb+ data file version 3 timestamp sorted
+data/pu:     kdb+ data file version 3 timestamp unique
+data/px:     kdb+ data file version 3 timestamp
+data/s0:     kdb+ data file version 2 symbol scalar
+data/sg:     kdb+ data file version 2 symbol
+data/sp:     kdb+ data file version 2 symbol
+data/ss:     kdb+ data file version 2 symbol
+data/su:     kdb+ data file version 2 symbol
+data/sx:     kdb+ data file version 2 symbol
+data/t0:     kdb+ data file version 2 time scalar
+data/t1#:    empty
+data/t1:     kdb+ data file version 3 nested time
+data/table:  kdb+ data file version 2 table
+data/tg:     kdb+ data file version 3 time grouped
+data/tp:     kdb+ data file version 3 time partitioned
+data/ts:     kdb+ data file version 3 time sorted
+data/tu:     kdb+ data file version 3 time unique
+data/tx:     kdb+ data file version 3 time
+data/u0:     kdb+ data file version 2 minute scalar
+data/u1#:    empty
+data/u1:     kdb+ data file version 3 nested minute
+data/ug:     kdb+ data file version 3 minute grouped
+data/up:     kdb+ data file version 3 minute partitioned
+data/us:     kdb+ data file version 3 minute sorted
+data/uu:     kdb+ data file version 3 minute unique
+data/ux:     kdb+ data file version 3 minute
+data/v0:     kdb+ data file version 2 second scalar
+data/v1#:    empty
+data/v1:     kdb+ data file version 3 nested second
+data/vg:     kdb+ data file version 3 second grouped
+data/vp:     kdb+ data file version 3 second partitioned
+data/vs:     kdb+ data file version 3 second sorted
+data/vu:     kdb+ data file version 3 second unique
+data/vx:     kdb+ data file version 3 second
+data/x0:     kdb+ data file version 2 byte scalar
+data/x1#:    empty
+data/x1:     kdb+ data file version 3 nested byte
+data/xg:     kdb+ data file version 3 byte grouped
+data/xp:     kdb+ data file version 3 byte partitioned
+data/xs:     kdb+ data file version 3 byte sorted
+data/xu:     kdb+ data file version 3 byte unique
+data/xx:     kdb+ data file version 3 byte
+data/z0:     kdb+ data file version 2 datetime scalar
+data/z1#:    empty
+data/z1:     kdb+ data file version 3 nested datetime
+data/zg:     kdb+ data file version 3 datetime grouped
+data/zipped: kdb+ data file, compressed
+data/zp:     kdb+ data file version 3 datetime partitioned
+data/zs:     kdb+ data file version 3 datetime sorted
+data/zu:     kdb+ data file version 3 datetime unique
+data/zx:     kdb+ data file version 3 datetime
