@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/enlnt/ffiq.svg?branch=master)](https://travis-ci.org/enlnt/ffiq)
+[![Build Status](https://travis-ci.org/enlnt/kdb-magic.svg?branch=master)](https://travis-ci.org/enlnt/kdb-magic)
 
 Usage:
 
