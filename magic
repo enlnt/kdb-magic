@@ -1,6 +1,29 @@
 0	string	\xFF	q2
 >2      byte    =11 symbol
 
+>1      byte    0x01
+>>2      byte    =0xff boolean scalar
+>>2      byte    =0xfe guid scalar
+>>2      byte    =0xfc byte scalar
+>>2      byte    =0xfb short scalar
+>>2      byte    =0xfa int scalar
+>>2      byte    =0xf9 long scalar
+>>2      byte    =0xf8 real scalar
+>>2      byte    =0xf7 float scalar
+>>2      byte    =0xf6 char scalar
+>>2      byte    =0xf5 symbol scalar
+>>2      byte    =0xf4 timestamp scalar
+>>2      byte    =0xf3 month scalar
+>>2      byte    =0xf2 date scalar
+>>2      byte    =0xf1 datetime scalar
+>>2      byte    =0xf0 timespan scalar
+>>2      byte    =0xef minute scalar
+>>2      byte    =0xee second scalar
+>>2      byte    =0xed time scalar
+
+>>2      byte    =98 table
+>>2      byte    =99 dict
+
 0	string	\xFE	q3
 >1      byte    0x20
 >>2      byte    =1  boolean
@@ -12,6 +35,7 @@
 >>2      byte    =8  real
 >>2      byte    =9  float
 >>2      byte    =10 char
+>>2      byte    =11 symbol
 >>2      byte    =12 timestamp
 >>2      byte    =13 month
 >>2      byte    =14 date
